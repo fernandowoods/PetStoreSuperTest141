@@ -1,0 +1,16 @@
+{
+  "id": 173312201,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Zeze",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vaccinated"
+    }
+  ],
+  "status": "available"
+}
