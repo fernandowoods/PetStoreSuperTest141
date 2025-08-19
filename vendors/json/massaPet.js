@@ -1,4 +1,4 @@
-module.exports.array = [
+module.exports.array = [  // Transforma essa adaptação de json (nesse caso são alguns json) em JavaScript 
   {
     "name": "Snoopy",
     "idPet": 312217301,
